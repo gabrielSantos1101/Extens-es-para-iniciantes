@@ -57,6 +57,7 @@
 - [Javascript questions](https://github.com/lydiahallie/javascript-questions)
 - [AirBnb](https://github.com/airbnb/javascript)
 - [react props](https://www.freecodecamp.org/news/react-props-animated-guide/?ref=dailydev)
+- [JavaScript Visualized: Promises & Async/Await](https://dev.to/lydiahallie/javascript-visualized-promises-async-await-5gke)
 
 ## sites uteis
 
