@@ -64,6 +64,12 @@
 ### CSS
 -[Easing gradients](https://larsenwork.com/easing-gradients/#editor)
 
+### Desafios Front
+- [Frontend Mentor](https://www.frontendmentor.io/)
+
+### APIs
+- [RapidAPI](https://rapidapi.com/hub)
+
 ## Jogos
 
 - [git](https://learngitbranching.js.org/?locale=pt_BR)
