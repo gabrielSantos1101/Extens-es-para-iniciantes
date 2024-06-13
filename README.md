@@ -4,19 +4,17 @@
 
 - [VS HTML to CSS](https://marketplace.visualstudio.com/items?itemName=neptunedesign.vs-html-to-css)
 - [Code spell checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
-- [color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
+- [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 - [HTML end tag Labels](https://marketplace.visualstudio.com/items?itemName=anteprimorac.html-end-tag-labels)
 - [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) [🤸 configure aqui](./assets/Prettier/index.md)
-- [svg Preview](https://marketplace.visualstudio.com/items?itemName=SimonSiefke.svg-preview)
+- [Svg Preview](https://marketplace.visualstudio.com/items?itemName=SimonSiefke.svg-preview)
 - [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
 - [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
 - [styled-components-snippets](https://marketplace.visualstudio.com/items?itemName=jonkwheeler.styled-components-snippets)
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 - [Console Ninja](https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja)
 - [Error Help](https://marketplace.visualstudio.com/items?itemName=GihanSiriwardhana.error-help)
-
----
 
 ## Temas
 
@@ -38,8 +36,6 @@
 - [Dracula](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
 - [Ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu)
 
----
-
 ## Icons
 
 - [Material icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
@@ -53,16 +49,16 @@
 - [Typehero](https://typehero.dev/aot-2023)
 
 ## Aprenda javaScript
-- [javaScript concepts](https://github.com/leonardomso/33-js-concepts)
+- [JavaScript concepts](https://github.com/leonardomso/33-js-concepts)
 - [Javascript questions](https://github.com/lydiahallie/javascript-questions)
 - [AirBnb](https://github.com/airbnb/javascript)
-- [react props](https://www.freecodecamp.org/news/react-props-animated-guide/?ref=dailydev)
+- [React props](https://www.freecodecamp.org/news/react-props-animated-guide/?ref=dailydev)
 - [JavaScript Visualized: Promises & Async/Await](https://dev.to/lydiahallie/javascript-visualized-promises-async-await-5gke)
 
-## sites uteis
+## Sites úteis
 
 ### CSS
--[Easing gradients](https://larsenwork.com/easing-gradients/#editor)
+- [Easing gradients](https://larsenwork.com/easing-gradients/#editor)
 
 ### Desafios Front
 - [Frontend Mentor](https://www.frontendmentor.io/)
@@ -72,7 +68,8 @@
 
 ## Jogos
 
-- [git](https://learngitbranching.js.org/?locale=pt_BR)
+### Git
+- [Git](https://learngitbranching.js.org/?locale=pt_BR)
 
 ### Design
 - [Can't see](https://cantunsee.space/)
@@ -99,8 +96,8 @@
 
 ### JavaScript
 
-- [js challenges](https://jschallenger.com/)
-- [leet code](https://leetcode.com/problemset/javascript/)
-- [codingame](https://www.codingame.com/start)
-- [codeChef](https://www.codechef.com/)
+- [JS Challenger](https://jschallenger.com/)
+- [LeetCode](https://leetcode.com/problemset/javascript/)
+- [Codingame](https://www.codingame.com/start)
+- [CodeChef](https://www.codechef.com/)
 - [Java5Script](https://www.java5cript.com/code-challenges)
